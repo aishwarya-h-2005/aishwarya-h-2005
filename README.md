@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Aishwarya H
 
-<!--
-**aishwarya-h-2005/aishwarya-h-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Engineering Student (ECE)  
+🏫 Bapuji Institute of Engineering and Technology, Davangere  
+📚 Currently in 6th Semester  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💡 Passionate about becoming a **Full Stack Developer**
+- 💻 Currently learning **Java and Data Structures & Algorithms (DSA)**
+- 🔍 Interested in problem-solving and building real-world projects
+- 🌱 Continuously improving my coding and development skills
+
+---
+
+## 🛠️ Skills & Technologies
+
+- 💻 Programming: Java, C
+- 🌐 Web Basics: HTML, CSS
+- 📘 Learning: DSA, Full Stack Development
+
+---
+
+## 📊 GitHub Stats
+
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwarya-h-2005&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=aishwarya-h-2005&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a skilled Full Stack Developer
+- 📈 Improve problem-solving skills through DSA
+- 💼 Get placed in a top tech company
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/aishwarya-h-a865762ba
+- GitHub: https://github.com/aishwarya-h-2005
+---
+
+⭐ *"Consistency is the key to success."*
