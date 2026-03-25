@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Aishwarya H] (https://www.linkedin.com/in/aishwarya-h-a865762ba)
+# Hi 👋, I'm [Aishwarya H](https://www.linkedin.com/in/aishwarya-h-a865762ba)
 
 🎓 I'm an Engineering Student (ECE)  
 🏫 Bapuji Institute of Engineering and Technology, Davangere  
