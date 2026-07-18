@@ -23,7 +23,7 @@ Final-year Electronics & Communication Engineering student transitioning into so
 - 🌱 Currently learning: Spring Boot, MongoDB, and applied Generative AI (LLM APIs, RAG)
 - 💡 Strong fundamentals in Data Structures & Algorithms — **[X]+ problems solved on LeetCode**
 - 🎯 Actively seeking: Software Developer / Full Stack Developer roles (2026 graduating batch)
-- 📫 Reach me at: **YOUR_EMAIL@gmail.com**
+- 📫 Reach me at: **aishwaryahaishwaryah8@gmail.com**
 
 ---
 
