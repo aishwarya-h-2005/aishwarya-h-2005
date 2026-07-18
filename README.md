@@ -1,21 +1,4 @@
 <h1 align="center">Hi, I'm Aishwarya H 👋</h1>
-<h3 align="center">Java Full Stack Developer | Backend-focused Software Engineer | GenAI Enthusiast</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aishwarya-h-a865762ba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_HANDLE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
----
-
-<h1 align="center">Hi, I'm Aishwarya H 👋</h1>
 <h3 align="center">Software Developer Aspirant | Java & Full Stack Development</h3>
 
 <p align="center">
